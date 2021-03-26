@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Charl3s/Documents/NetBeansProjects/Book/src/java/BOOK_SERVLETS/delete.java</file>
+            <file>file:/C:/Users/Charl3s/Documents/NetBeansProjects/Book/src/java/BOOK_SERVLETS/List_book.java</file>
+            <file>file:/C:/Users/Charl3s/Documents/NetBeansProjects/Book/src/java/Validate/category.java</file>
+            <file>file:/C:/Users/Charl3s/Documents/NetBeansProjects/Book/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Charl3s/Documents/NetBeansProjects/Book/src/java/Validate/Book_checker.java</file>
+            <file>file:/C:/Users/Charl3s/Documents/NetBeansProjects/Book/src/java/category_servlet/addCategory.java</file>
+            <file>file:/C:/Users/Charl3s/Documents/NetBeansProjects/Book/src/java/BOOK_SERVLETS/add.java</file>
+            <file>file:/C:/Users/Charl3s/Documents/NetBeansProjects/Book/src/java/POJO/book.java</file>
+            <file>file:/C:/Users/Charl3s/Documents/NetBeansProjects/Book/src/java/Validate/resultset.java</file>
+            <file>file:/C:/Users/Charl3s/Documents/NetBeansProjects/Book/src/java/BOOK_SERVLETS/fetch_Books.java</file>
+            <file>file:/C:/Users/Charl3s/Documents/NetBeansProjects/Book/src/java/BOOK_SERVLETS/Deletes.java</file>
+        </group>
+    </open-files>
+</project-private>
