@@ -1,2 +1,2 @@
 # book1
- demo
+ Backend web application of a library management system using servlets
